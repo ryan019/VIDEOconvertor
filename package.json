@@ -76,3 +76,8 @@
         }
     ]
 }
+"scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "bash convertor.sh"
+} 
