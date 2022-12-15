@@ -75,8 +75,8 @@
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
         }
     ]
-}
-"scripts": {
+}, 
+    "scripts": {
         "build": "echo \"No build specified\" && exit 1",
         "test": "echo \"No test specified\" && exit 1",
         "start": "bash convertor.sh"
